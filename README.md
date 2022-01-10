@@ -1,4 +1,4 @@
-<h1 align="center">OLX Clone :file_folder:</h1>
+<h1 align="center">OLX Clone (Frontend) :file_folder:</h1>
 
 <h3 align="center">:bookmark_tabs: Um Clone baseado no site da OLX e feito com o curso de ReactJS do AlunosB7Web</h3>
 
@@ -15,7 +15,7 @@
  <br>
  
  ## <a name="SobreoProjeto"></a>:information_source: Especificações do Projeto
- Esta aplicação foi realizada por meio do curso de ReactJS da rede <b>AlunosB7Web</b>, onde todas as páginas, exceto a página <b>Minha Conta</b>, foram feitas passo a passo com um professor.
+ Esta aplicação foi realizada por meio do curso de ReactJS da rede <b>AlunosB7Web</b>, onde todas as páginas, exceto a página <b>Minha Conta</b>, foram feitas passo a passo com um professor por vídeo aulas.
  
  <br>
 
