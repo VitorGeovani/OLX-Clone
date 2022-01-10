@@ -6,7 +6,7 @@
  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat" />
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=&logo=javascript&logoColor=black" />
  <img src="https://img.shields.io/badge/Node.js-43853D?style=&logo=node.js&logoColor=white" />
- <img src="https://img.shields.io/github/license/luccazx12/reprography-nodejs">
+ <img src="https://img.shields.io/github/license/VitorGeovani/reprography-nodejs">
  <img src="https://img.shields.io/github/repo-size/VitorGeovani/OLX-Clone">
  <img src="https://img.shields.io/github/last-commit/VitorGeovani/OLX-Clone">
  <img src="https://img.shields.io/github/forks/VitorGeovani/OLX-Clone?style=social" />
