@@ -69,7 +69,21 @@
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
+<br>
 
+## <a name="Agradecimento"></a>👏❤️Agradecimento 
+Quero agradecer ao colega <b>QuenedeAbreu</b> por ter disponibilizado todo o código dele, possibilitando com que eu conseguisse finalizar a página <b>"Minha Conta"</b> que faltava em meu projeto. Acesse o perfil dele no <b>GitHub</b> para mais informações:
+
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/QuenedeAbreu">
+    <img src="https://avatars.githubusercontent.com/u/39633455?v=4" width="200px" alt="Imagem do perfil de Lucca"/>
+    <br />
+     <sub><b>QuenedeAbreu</b></sub><br />
+     </td>
+
+ </tr>
+</table>
 
 
 
