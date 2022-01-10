@@ -88,6 +88,9 @@
 * Página <b>Ver todos com filtro aplicado</b>
 <img src="https://user-images.githubusercontent.com/71882193/148775194-0f6a6313-7da2-49d0-a97e-d41829841f1e.png" width="800px" />
 
+* Página de <b>Visualização do produto</b>
+<img src="https://user-images.githubusercontent.com/71882193/148775781-a22ecbf1-7097-4a67-9ed4-6abc4f5af586.png" width="800px" />
+
 
 <br>
 
