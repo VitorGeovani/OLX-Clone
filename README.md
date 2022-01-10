@@ -46,5 +46,21 @@
 * [free-solid-svg-icons](https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons) 5.15.4
 * [react-fontawesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome) 0.1.16
 * [js-cookie](https://www.npmjs.com/package/js-cookie) 2.2.1 - Uma API JavaScript simples e leve para manusear cookies
+* [qs](https://www.npmjs.com/package/qs) 6.9.0 - Uma biblioteca de consultas e stringifying com alguma segurança adicional.
+* [react](https://www.npmjs.com/package/react) 16.11.0 - React é uma biblioteca JavaScript para criar interfaces de usuário.
+* [react-dom](https://www.npmjs.com/package/react-dom) 16.11.0 - Este pacote serve como o ponto de entrada para o DOM e renderizadores de servidor para React.
+* [react-redux](https://www.npmjs.com/package/react-redux) 7.1.1 - Usado para criar aplicações React.
+* [react-router-dom](https://www.npmjs.com/package/react-router-dom/v/5.1.2) 5.1.2 - Vinculações DOM para Roteador de Reação.
+* [react-scripts](https://www.npmjs.com/package/react-scripts) 3.2.0 - Este pacote inclui scripts e configuração usados pelo Create React App.
+* [react-slick](https://www.npmjs.com/package/react-slick) 0.28.1 - Componente carrossel construído com React.
+* [react-slideshow-image](https://www.npmjs.com/package/react-slideshow-image) 1.3.1 - Um simples componente de apresentação de slides construído com efeitos de reação que suporta efeitos de deslizamento, desbotamento e zoom.
+* [react-text-mask](https://www.npmjs.com/package/react-text-mask) 5.4.3
+* [redux](https://www.npmjs.com/package/redux) 4.0.4 - Redux é um contêiner de estado previsível para aplicativos JavaScript.
+* [slick-carousel](https://www.npmjs.com/package/slick-carousel) 1.8.1
+* [styled-components](https://www.npmjs.com/package/styled-components) 4.4.1
+* [text-mask-addons](https://www.npmjs.com/package/text-mask-addons) 3.8.0 - Estes addons são tubos prontos para uso e máscaras que podem ser usados com máscara de texto.
+
+
+
 
 
