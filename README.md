@@ -15,7 +15,7 @@
  <br>
  
  ## <a name="SobreoProjeto"></a>:information_source: Especificações do Projeto
- Esta aplicação foi realizada por meio do curso de ReactJS da rede <b>AlunosB7Web</b>, onde todas as páginas, exceto a página <b>Minha Conta</b>, foram feitas passo a passo com um professor por vídeo aulas.
+ Esta aplicação foi realizada por meio do curso de ReactJS da rede <b>AlunosB7Web</b>, onde todas as páginas, exceto a página <b>Minha Conta</b>, foram feitas passo a passo com um professor por vídeo aulas. O intuito deste projeto é replicar o site da <b>OLX</b>, bem como seus atributos e funções, para retornar os produtos foi usada uma <b>API</b> pública criada diretamente pelos administradores do <b>AlunosB7Web</b>.
  
  <br>
 
@@ -68,6 +68,29 @@
 3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
+
+<br>
+
+## <a name="ComoContribuirParaOProjeto"></a>🖼 Imagens do projeto
+* Página Home
+<img src="https://user-images.githubusercontent.com/71882193/148773307-2f499553-725a-4a7d-9716-dcf97a454f80.png" width="800px" />
+
+* Página de Login
+<img src="https://user-images.githubusercontent.com/71882193/148773935-381515c3-f4fd-4c89-811c-1f1addd3f50e.png" width="800px" />
+
+
+* Página de Cadastro
+<img src="https://user-images.githubusercontent.com/71882193/148774704-31c9dbea-276a-4dcd-b21c-c5f32b3c69fe.png" width="800px" />
+
+* Página de Poste um anúncio
+<img src="https://user-images.githubusercontent.com/71882193/148774936-404faee7-85b4-4f61-bcdc-3ff52ea41682.png" width="800px" />
+
+* Página Ver todos com filtro aplicado
+<img src="https://user-images.githubusercontent.com/71882193/148775194-0f6a6313-7da2-49d0-a97e-d41829841f1e.png" width="800px" />
+
+
+
+
 
 <br>
 
