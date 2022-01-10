@@ -72,24 +72,21 @@
 <br>
 
 ## <a name="ComoContribuirParaOProjeto"></a>🖼 Imagens do projeto
-* Página Home
+* Página <b>Home</b>
 <img src="https://user-images.githubusercontent.com/71882193/148773307-2f499553-725a-4a7d-9716-dcf97a454f80.png" width="800px" />
 
-* Página de Login
+* Página de <b>Login</b>
 <img src="https://user-images.githubusercontent.com/71882193/148773935-381515c3-f4fd-4c89-811c-1f1addd3f50e.png" width="800px" />
 
 
-* Página de Cadastro
+* Página de <b>Cadastro</b>
 <img src="https://user-images.githubusercontent.com/71882193/148774704-31c9dbea-276a-4dcd-b21c-c5f32b3c69fe.png" width="800px" />
 
-* Página de Poste um anúncio
+* Página de <b>Poste um anúncio</b>
 <img src="https://user-images.githubusercontent.com/71882193/148774936-404faee7-85b4-4f61-bcdc-3ff52ea41682.png" width="800px" />
 
-* Página Ver todos com filtro aplicado
+* Página <b>Ver todos com filtro aplicado</b>
 <img src="https://user-images.githubusercontent.com/71882193/148775194-0f6a6313-7da2-49d0-a97e-d41829841f1e.png" width="800px" />
-
-
-
 
 
 <br>
